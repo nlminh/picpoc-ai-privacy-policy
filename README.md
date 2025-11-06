@@ -4,7 +4,7 @@ This repository hosts the Privacy Policy for PicPoc Photo AI mobile application.
 
 ## View Privacy Policy
 
-Visit: https://[your-username].github.io/picpoc-ai-privacy-policy/
+Visit: https://nlminh.github.io/picpoc-ai-privacy-policy/
 
 ## For Developers
 
